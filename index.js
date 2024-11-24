@@ -1,5 +1,5 @@
 let nome = "Marston"
-let xp = 0
+let xp = 7034
 let nomeNivel = ""
 
 switch (true) {
